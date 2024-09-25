@@ -1,0 +1,96 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-09-25 15:41-0300\n"
+"PO-Revision-Date: 2024-09-25 15:44-0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: softdes.py:147
+msgid "Boa tentativa, mas não vai dar certo!"
+msgstr "Good try, but it won't work!"
+
+#: softdes.py:154
+msgid "Sorry... Prazo expirado!"
+msgstr "Sorry... Deadline expired!"
+
+#: softdes.py:186
+msgid "Ainda não há desafios! Volte mais tarde."
+msgstr "There are no challenges yet! Please check back later."
+
+#: softdes.py:193
+msgid "Oops... Desafio invalido!"
+msgstr "Oops... Invalid challenge!"
+
+#: softdes.py:212
+msgid "As novas senhas nao batem"
+msgstr "The new passwords do not match."
+
+#: softdes.py:215
+msgid "A senha antiga nao confere"
+msgstr "The old password does not match."
+
+#: softdes.py:219
+msgid "Senha alterada com sucesso"
+msgstr "Password changed successfully."
+
+#: softdes.py:230
+msgid "Logout com sucesso"
+msgstr "Logged out successfully."
+
+#: templates/index.html:32
+msgid "Olá"
+msgstr "Hello"
+
+#: templates/index.html:52 templates/index.html:91
+msgid "Desafio"
+msgstr "Challenge"
+
+#: templates/index.html:76
+msgid "Senha Antiga"
+msgstr "Old Password"
+
+#: templates/index.html:78
+msgid "Senha Nova"
+msgstr "New Password"
+
+#: templates/index.html:80
+msgid "Repetir Senha Nova"
+msgstr "Repeat New Password"
+
+#: templates/index.html:84
+msgid "Enviar"
+msgstr "Submit"
+
+#: templates/index.html:107
+msgid "Resposta"
+msgstr "Answer"
+
+#: templates/index.html:117
+msgid "Envios"
+msgstr "Submissions"
+
+#: templates/index.html:122
+msgid "Data"
+msgstr "Date"
+
+#: templates/index.html:123
+msgid "Feedback"
+msgstr "Feedback"
+
+#: templates/index.html:124
+msgid "Resultado"
+msgstr "Result"
+

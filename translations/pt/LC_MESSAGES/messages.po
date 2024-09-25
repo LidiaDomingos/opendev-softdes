@@ -1,0 +1,100 @@
+# Portuguese translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-09-25 16:48-0300\n"
+"PO-Revision-Date: 2024-09-25 16:48-0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt\n"
+"Language-Team: pt <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: softdes.py:170
+msgid "Boa tentativa, mas não vai dar certo!"
+msgstr "Boa tentativa, mas não vai dar certo!"
+
+#: softdes.py:177
+msgid "Sorry... Prazo expirado!"
+msgstr "Desculpe... Prazo expirado!"
+
+#: softdes.py:209
+msgid "Ainda não há desafios! Volte mais tarde."
+msgstr "Ainda não há desafios! Volte mais tarde."
+
+#: softdes.py:216
+msgid "Oops... Desafio invalido!"
+msgstr "Oops... Desafio inválido!"
+
+#: softdes.py:235
+msgid "As novas senhas nao batem"
+msgstr "As novas senhas não batem."
+
+#: softdes.py:238
+msgid "A senha antiga nao confere"
+msgstr "A senha antiga não confere."
+
+#: softdes.py:242
+msgid "Senha alterada com sucesso"
+msgstr "Senha alterada com sucesso."
+
+#: softdes.py:253
+msgid "Logout com sucesso"
+msgstr "Logout com sucesso."
+
+#: templates/index.html:32
+msgid "Olá"
+msgstr "Olá"
+
+#: templates/index.html:54 templates/index.html:93
+msgid "Desafio"
+msgstr "Desafio"
+
+#: templates/index.html:71
+msgid "Trocar senha"
+msgstr "Trocar senha"
+
+#: templates/index.html:78
+msgid "Senha Antiga"
+msgstr "Senha Antiga"
+
+#: templates/index.html:80
+msgid "Senha Nova"
+msgstr "Senha Nova"
+
+#: templates/index.html:82
+msgid "Repetir Senha Nova"
+msgstr "Repetir Senha Nova"
+
+#: templates/index.html:86
+msgid "Enviar"
+msgstr "Enviar"
+
+#: templates/index.html:109
+msgid "Resposta"
+msgstr "Resposta"
+
+#: templates/index.html:119
+msgid "Envios"
+msgstr "Envios"
+
+#: templates/index.html:124
+msgid "Data"
+msgstr "Data"
+
+#: templates/index.html:125
+msgid "Feedback"
+msgstr "Feedback"
+
+#: templates/index.html:126
+msgid "Resultado"
+msgstr "Resultado"
+
