@@ -33,7 +33,7 @@ babel = Babel(app)
 def get_locale():
     lang = request.cookies.get('lang')
     if lang:
-        print(f"Locale from cookie: {lang}")  # Adicione isso para debugar
+        print(f"Locale from cookie: {lang}") 
         return lang
     return request.accept_languages.best_match(['en', 'pt'])
 
@@ -46,7 +46,7 @@ babel.init_app(app, locale_selector=get_locale)
 @app.route('/change_language/<lang>')
 def change_language(lang):
     referrer = request.referrer or '/'
-    print(f'Redirecting to: {referrer}')  # Log da URL de redirecionamento
+    print(f'Redirecting to: {referrer}') 
     response = make_response(redirect(referrer))
     response.set_cookie('lang', lang)
     return response
